@@ -6,3 +6,4 @@ dbbackup can be installed by:
 
 dbbackup-tools is instaled with dbbackup dependencies
 
+See dbbackup or dbbackup-tools for configuration informations
